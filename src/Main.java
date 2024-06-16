@@ -40,7 +40,7 @@ public class Main {
         int twoNext = 0;
         for (int t = 1; t<=10; t++) {
             twoNext = two * t;
-            System.out.println("2*" +t+ "=" +twoNext+"");
+            System.out.println("2*" +t+ "=" +twoNext+"!");
         }
 
 }}
